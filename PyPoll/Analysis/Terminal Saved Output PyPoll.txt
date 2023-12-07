@@ -1,0 +1,23 @@
+Last login: Wed Dec  6 16:35:39 on ttys000
+(base) xueyilu@XueYis-MBP ~ % cd desktop/github/python-challenge/PyPoll
+(base) xueyilu@XueYis-MBP PyPoll % ls
+Analysis	Resources	main2.py
+(base) xueyilu@XueYis-MBP PyPoll % python main2.py
+Election Results
+-------------------------
+Total Votes: 369711
+-------------------------
+Raymon Anthony Doane: 3.139% (11606)
+Charles Casper Stockham: 23.049% (85213)
+Diana DeGette: 73.812% (272892)
+-------------------------
+Winner: Diana DeGette
+-------------------------
+Results have been saved to /Users/xueyilu/Desktop/Github/python-challenge/PyPoll/Analysis/election_results.txt
+(base) xueyilu@XueYis-MBP PyPoll % 
+
+
+
+
+
+
