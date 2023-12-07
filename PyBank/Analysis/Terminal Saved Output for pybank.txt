@@ -1,0 +1,23 @@
+Last login: Wed Dec  6 16:06:42 on ttys008
+(base) xueyilu@XueYis-MBP ~ % cd desktop/github/python-challenge
+(base) xueyilu@XueYis-MBP python-challenge % ls
+PyBank			README.md
+PyPoll			python-challenge
+(base) xueyilu@XueYis-MBP python-challenge % cd PyBank 
+(base) xueyilu@XueYis-MBP PyBank % ls
+Analysis	Resources	main.py
+(base) xueyilu@XueYis-MBP PyBank % python main.py
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: 22564198
+Average Change: -8311.105882352942
+Greatest Increase in Profits:
+  Date: Aug-16
+  Amount: 1862002
+Greatest Decrease in Profits:
+  Date: Feb-14
+  Amount: -1825558
+Financial analysis results exported to '/Users/xueyilu/Desktop/Github/python-challenge/PyBank/Analysis/analyze_financial_data.txt'.
+(base) xueyilu@XueYis-MBP PyBank % 
+
